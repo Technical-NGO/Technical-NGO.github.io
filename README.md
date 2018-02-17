@@ -23,6 +23,10 @@ This benefits both as:
 
 So, win-win for both...
 
+## How de we ensure quality while still learning?
+
+Not all of us are in learning phase, we among us also have people from the industry who have been doing this for a while.
+They ensure that we learn best practices, and the end result reflects quality and perfection.
 
 ## Can I contribute ?
 

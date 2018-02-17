@@ -5,7 +5,7 @@ This organization is under development but that doesn't mean you can't know who 
 
 ## Who are we?
 
-We are bunch of people who happened to share a common dream of developing for the Web Development.
+We are bunch of people who happened to share a common dream of developing for the Web.
 
 How did this diverse cast come to be? Well, all credits for that goes to the Google Reskilling India Scholarship provided by Udacity which brought us all under one big umbrella (or tree, if you prefer coding terms)
 
@@ -15,11 +15,11 @@ Plain and simple - get proficient in web development. No mysteries there.
 
 But why a organization though? Well, as Gobber from _How To Train Your Dragon_ says, we believe in "Learning on the job".
 
-Confused? What we aim to do is learn web development by designing and developing websites for NGOs and other non-profits. 
+Confused? Basically, what we aim to do is learn web development by designing and developing websites for NGOs and other non-profits. 
 
 This benefits both as:
 1. they get an awesome website (for free)
-2. we get practice
+2. we get practice (lots of it)
 
 So, win-win for both...
 

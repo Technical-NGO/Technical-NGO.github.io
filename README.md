@@ -1,13 +1,34 @@
 # Technical-NGO
 
 
-Place-holder landing page while the original one is in development..
+This organization is under development but that doesn't mean you can't know who we are...
+
+## Who are we?
+
+We are bunch of people who happened to share a common dream of developing for the Web Development.
+
+How did this diverse cast come to be? Well, all credits for that goes to the Google Reskilling India Scholarship provided by Udacity which brought us all under one big umbrella (or tree, if you prefer coding terms)
+
+## Our aim?
+
+Plain and simple - get proficient in web development. No mysteries there.
+
+But why a organization though? Well, as Gobber from _How To Train Your Dragon_ says, we believe in "Learning on the job".
+
+Confused? What we aim to do is learn web development by designing and developing websites for NGOs and other non-profits. 
+
+This benefits both as:
+1. they get an awesome website (for free)
+2. we get practice
+
+So, win-win for both...
+
 
 ## Can I contribute ?
 
-Well offcourse you can, we will make sure that each issue will have label showing the difficulty level of that issue. It can be Easy, Medium, Hard. Easy labeled issues can be taken up by those who are new to Github and want to contribute something. We highly recommend other people to leave easy issues for other only if you think you can take Medium or higher level issues.
+Well of course you can, we will make sure that each issue will have label showing the difficulty level of that issue. It can be Easy, Medium, Hard. Easy labeled issues can be taken up by those who are new to Github and want to contribute something. We highly recommend contributors to leave easy issues for others, only if you think you can take Medium or higher level issues.
 
-Also make sure that if you are working on any issue then make one comment saying that you want to work on it so that others may know that this issue is already assigned to someone else and he/she is already working on it. Try not to break these rules as it will maintain healthy behaviour among us.
+Also make sure that if you are working on any issue then make one comment saying that you want to work on it so that others may know that this issue is already assigned to someone and he/she is already working on it. Try not to break these rules as it will maintain healthy behaviour among us.
 
 ## Best practices for contributition
 

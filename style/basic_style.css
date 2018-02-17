@@ -1,12 +1,11 @@
-body{
-  font-family: 'Titillium Web', sans-serif;
-  background-size: cover;
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-size: cover;
 }
 
-
-.button{
+.button {
     text-decoration: none;
-	border-radius: 50px;
+    border-radius: 50px;
     font-family: 'Titillium Web', sans-serif;
     color: #fff;
     border: 2px solid #fff;
@@ -30,10 +29,7 @@ body{
     top: 0;
     left: 0;
     z-index: -1;
-    background-image: url(/media/background_black-geometric.jpg);
-    background-position: center right;
-    background-size: cover;
-    background-attachment: fixed;
+    background-color: #2f2f2f;
     font-family: 'Titillium Web', sans-serif;
     font-style: normal;
 }
@@ -45,23 +41,22 @@ body{
     padding-top: 20px;
     padding-bottom: 20px;
     position: absolute;
-    height:50%;
+    height: 50%;
     width: 80%;
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 }
 
-.logo_container{
-	margin-top: 1px;
-	text-align: center;
-	padding-bottom: 1px;
-
+.logo_container {
+    margin-top: 1px;
+    text-align: center;
+    padding-bottom: 1px;
 }
-.logo {
-	padding-left: 20px;
-	padding-left: 20px;
-	text-align: center;
-	text-decoration: none;
 
+.logo {
+    padding-left: 20px;
+    padding-left: 20px;
+    text-align: center;
+    text-decoration: none;
 }

@@ -252,7 +252,7 @@ Please open an issue on `Technical-NGO/Technical-NGO.github.io` if you have sugg
 | Label name | Description
 | --- | --- |
 | [`work-in-progress`](https://github.com/Technical-NGO/Technical-NGO.github.io/labels/work-in-progress) | Pull requests which are still being worked on, more changes will follow. | [search](search-technical-ngo-org-label-work-in-progress) 
-| `needs-review` | Pull requests which need code review, and approval from maintainers. |
-| `under-review` | Pull requests being reviewed by maintainers.|
-| `requires-changes` | Pull requests which need to be updated based on review comments and then reviewed again. |
-| `needs-testing` | Pull requests which need manual testing. |
+| [`needs-review`](https://github.com/Technical-NGO/Technical-NGO.github.io/labels/needs-review) | Pull requests which need code review, and approval from maintainers. |
+| [`under-review`](https://github.com/Technical-NGO/Technical-NGO.github.io/labels/under-review) | Pull requests being reviewed by maintainers.|
+| [`requires-changes`](https://github.com/Technical-NGO/Technical-NGO.github.io/labels/requires-changes) | Pull requests which need to be updated based on review comments and then reviewed again. |
+| [`needs-testing`](https://github.com/Technical-NGO/Technical-NGO.github.io/labels/needs-testing) | Pull requests which need manual testing. |

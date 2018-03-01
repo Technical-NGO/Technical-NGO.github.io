@@ -30,6 +30,8 @@ They ensure that we learn best practices, and the end result reflects quality an
 
 ## Can I contribute ?
 
+Update: [Read our extensive contribution guideline](https://github.com/Technical-NGO/Technical-NGO.github.io/blob/master/CONTRIBUTING.md)
+
 Well of course you can, we will make sure that each issue will have label showing the difficulty level of that issue. It can be Easy, Medium, Hard. Easy labeled issues can be taken up by those who are new to Github and want to contribute something. We highly recommend contributors to leave easy issues for others, only if you think you can take Medium or higher level issues.
 
 Also make sure that if you are working on any issue then make one comment saying that you want to work on it so that others may know that this issue is already assigned to someone and he/she is already working on it. Try not to break these rules as it will maintain healthy behaviour among us.
